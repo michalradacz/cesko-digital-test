@@ -1,5 +1,3 @@
 - name: Markdown Docs
   uses: ldeluigi/markdown-docs@v0.6.0
-        with:
-          src: doc
-          dst: generated
+
