@@ -1,4 +1,4 @@
-      - name: Generate HTML from Markdown
+name: Generate HTML from Markdown
         uses: ldeluigi/markdown-docs@latest
         with:
           src: doc
