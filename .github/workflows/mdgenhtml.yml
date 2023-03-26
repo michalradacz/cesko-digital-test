@@ -2,6 +2,6 @@ name: MD HTML generate
 run-name: ${{ github.actor }} generating docs
 on: [push]
 jobs:
-- name: Markdown Docs
-  uses: ldeluigi/markdown-docs@v0.6.0
+  name: Markdown Docs
+    uses: ldeluigi/markdown-docs@v0.6.0
 
