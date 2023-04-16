@@ -10,6 +10,7 @@ Michal Rada, [Česko digital](https://www.cesko-digital.cz)
 
 ℹ️ Ovládání prezentace: F spouští klávesnici, šipky posun snímků, N pro pohled prezentujícího, T pro časovač prezentace
 
+
 >>> Prezentace je součástí učebních materiálů z projektu EGOVedu (www.egovedu.cz)
 >>>
 >>> Tato prezentace je zveřejněna a může být volně využitá a volně šířena pod otevřenou licencí CC
