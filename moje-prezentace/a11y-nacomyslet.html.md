@@ -66,16 +66,28 @@ Nevnímají obsah graficky, takže každá zraková informace je jim k ničemu
 
 ## Speciality OZP: sluchově postižení
 
+Není jich sice tolik, ale zase jsou tak úžasně roztříštění, že ideální přístup pro ně prostě neexistuje.
 Každá sluchová a zvuková informace je pro ně nedostupná, vnímají zejména obrazové informace
 
-- Zviky a akustické informace nejsou ideální, že?
+- Zvuky a akustické informace nejsou ideální, že?
+- Velkým omylem je to, že umí číst
+- Jednoduché věci piktogramy, složitější textem či znakovým jazykem
+- Akustické Notifikace také textem či nějakým viditelným signálem
+
 ---
 
 ## Speciality OZP: mobilně postižení
 
+Jde o osoby s různým 
+Postižením motoriky. To nejsou jen vozíčkáři, ale takových postižení je spousta.
+
+- Nepřizpůsobujeme primárně obsah, ale ovládání 
+- Nemají rádi malé ikonka a tlačítka, nějaké složité šmrdlání kurzorem po obrazovce také není moc fajn
+- Důležité je skutečně fyzické ovládání (třeba tlačítka)
+
 ---
 
-## Speciality OZP: hlavověpostižení
+## ✏️ Speciality OZP: hlavověpostižení
 
 ---
 
@@ -91,6 +103,10 @@ Následující platí pro přístupnost jakéhokoliv obsahu
 - Možnost vnímat a ovládat více smysly
 - Neodpoutávat pozornost od důležitého obsahu
 - Nezahlcovat smysly uživatele 
+
+---
+
+## ✏️ Základní principy pro obsah
 
 
 
