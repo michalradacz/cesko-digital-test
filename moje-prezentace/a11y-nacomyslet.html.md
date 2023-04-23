@@ -17,7 +17,7 @@ Michal Rada, [Česko digital](https://www.cesko-digital.cz)
 >>> Technicky je prezentace vytvořena s využitím nástroje MarkDeep-slides 
 
 
--— 
+--- 
 
 # Něco o přístupnosti
 
@@ -47,14 +47,28 @@ Přístupnost
 
 ## Pro koho to je
 
+Hodně se mluví o tom, že přístupnost je jen pro osoby se zdravotním postižením, ale není to pravda.
+
+- Lepší práce s obsahem pro analýzy, roboty, UI
+- Správně fungující ergonomie obsahu s možností hierarchické navigace
+
 ---
 
 ## Speciality OZP: zrakově postižení
+
+Nevnímají obsah graficky, takže každá zraková informace je jim k ničemu
+
+- Hlavní prostředek je text, vše designové a grafické musí být textově popsáno
+- Používají normální IT zařízení, mají speciální software zvaný odečítač obrazovky
+- Důležité je pro ně vnímat a ovládat obsah slučuje, hlasem, hmatem
 
 ---
 
 ## Speciality OZP: sluchově postižení
 
+Každá sluchová a zvuková informace je pro ně nedostupná, vnímají zejména obrazové informace
+
+- Zviky a akustické informace nejsou ideální, že?
 ---
 
 ## Speciality OZP: mobilně postižení
