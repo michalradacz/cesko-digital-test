@@ -54,13 +54,30 @@ Hodně se mluví o tom, že přístupnost je jen pro osoby se zdravotním posti�
 
 ---
 
+## Druhy bariér
+
+Obecně lze rozlišit bariéry
+
+* Fyzické
+* Sociální
+* Informační
+* Komunikační
+* Ekonomické
+
+
+---
+
+
 ## Speciality OZP: zrakově postižení
 
 Nevnímají obsah graficky, takže každá zraková informace je jim k ničemu
 
 - Hlavní prostředek je text, vše designové a grafické musí být textově popsáno
 - Používají normální IT zařízení, mají speciální software zvaný odečítač obrazovky
-- Důležité je pro ně vnímat a ovládat obsah slučuje, hlasem, hmatem
+- Důležité je pro ně vnímat a ovládat obsah sluchem, hlasem, hmatem
+- Potřeba statických ovládacích prvků
+- Potřeba vizuální úpravy a kontrastu
+- Problematická orientace ve velkém množství informací
 
 ---
 
@@ -71,6 +88,8 @@ Každá sluchová a zvuková informace je pro ně nedostupná, vnímají zejmén
 
 - Zvuky a akustické informace nejsou ideální, že?
 - Velkým omylem je to, že umí číst
+- Potřeba přepisování či překladu do znakového jazyka
+- Pro některé je čeština cizím jazykem
 - Jednoduché věci piktogramy, složitější textem či znakovým jazykem
 - Akustické Notifikace také textem či nějakým viditelným signálem
 
@@ -82,12 +101,42 @@ Jde o osoby s různým
 Postižením motoriky. To nejsou jen vozíčkáři, ale takových postižení je spousta.
 
 - Nepřizpůsobujeme primárně obsah, ale ovládání 
-- Nemají rádi malé ikonka a tlačítka, nějaké složité šmrdlání kurzorem po obrazovce také není moc fajn
-- Důležité je skutečně fyzické ovládání (třeba tlačítka)
+- Nemají rádi malé ikonky a tlačítka, nějaké složité šmrdlání kurzorem po obrazovce také není moc fajn
+- Potřeba čistého rozhraní s velkými prvky
+- Důležité je skutečně fyzické ovládání (třeba tlačítka) a klávesové zkratky
 
 ---
 
-## ✏️ Speciality OZP: hlavověpostižení
+## Speciality OZP: hlavověpostižení
+
+Jsou fakt hodně rozdrobení, do této skupiny se řadí autismus, demence, nebo třeba jen hrosba záchvatu
+
+- Neblikáme, nebafáme, neblbneme
+- Mají rádi jasný a jednotný styl, takže žádné přesouvání prvků a ovládání
+- Jednoduchá sdělení, piktogramy, zjednodušený text (ETR)
+- Často neporozumí složitějším informacím či informacím podaným více formami
+- Nemají konzistentní chování
+
+>>>
+>>> Tenhle termín hlavové postižení prosím nikdy nikde nepoužívejte, prostě se mi to sem jen sémanticky hodilo
+
+---
+
+## Jak pracují
+
+- zrakově postižení
+    - s odečítačem obrazovky (braillský či hlasový výstup)
+    - se zvětšovacím softwarem
+    - jinou formou prezentace informaccí
+    - s diktováním a hlasovým ovládáním
+- sluchově postižení
+    - s titulky či přepisem hlasu
+    - znakový jazyk
+    - s vizualizací zvuků, s barvičkami a piktogramy
+    - s diktováním či hlasovým ovládáním a čtením hlasem
+- pohybově postižení
+    - speciální klávesnice a ovladače
+
 
 ---
 
@@ -106,7 +155,41 @@ Následující platí pro přístupnost jakéhokoliv obsahu
 
 ---
 
-## ✏️ Základní principy pro obsah
+## Základní principy pro obsah
+
+- Popsat netextové prvky
+- Vizualizovat zvukové prvky
+- Strukturovat pomocí nadpisů
+- Srozumitelná navigace
+- Popsány a vysvětleny ovládací prvky
+- Neměnit svévolně obsah
+- Předvídatelný vzhled a chování
+- Pravidla vzhledu a kontrastů
+- Popsaná média
+- Já vám dám časovače
+
+
+---
+
+## Kde se dozvědět víc?
+
+- [Web accessibility initiative](https://www.w3.org/WAI/)
+
+## MAAP principy
+
+
+---
+
+## Třeba i webu...
+
+Je dobré to řešit komplexně, ale zejména:
+
+1. Vědět, v jaké technologii web tvořím a zda generuje přístupný výsledek
+1. Mít vyřešenu přístupnost v šablonách designu webu
+1. Správně řešit přístupnost při grafickém návrhu
+1. Nezapomenout na přístupnost obsahu jednotlivých stránek
+1. Vhodné je mít přístupné rozhraní pro správce a editory
+
 
 
 
